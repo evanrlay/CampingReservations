@@ -11,3 +11,5 @@ Navigate to the folder you saved the repo to
 Type in cd CampingReservations\bin\Debug  
 Run CampingReservations.exe  
 Input the path to the JSON file to be tested.  
+**NOTE:** Firewalls may not let you run the executable this way. The firewall may need to be disabled, or the code may need to be run in Visual Studio if disabling the firewall is not an option.
+
